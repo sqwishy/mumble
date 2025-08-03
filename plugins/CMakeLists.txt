@@ -70,6 +70,7 @@ if(WIN32 OR (UNIX AND CMAKE_SYSTEM_NAME STREQUAL "Linux"))
 		"l4d2"
 		"lol"
 		"lotro"
+		"oddsparks"
 		"ql"
 		"rl"
 		"se"
